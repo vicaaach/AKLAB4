@@ -1,0 +1,15 @@
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\bin\Debug\net6.0\АК4.exe
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\bin\Debug\net6.0\АК4.deps.json
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\bin\Debug\net6.0\АК4.runtimeconfig.json
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\bin\Debug\net6.0\АК4.dll
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\bin\Debug\net6.0\АК4.pdb
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.csproj.AssemblyReference.cache
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.AssemblyInfoInputs.cache
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.AssemblyInfo.cs
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.dll
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\refint\АК4.dll
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.pdb
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\АК4.genruntimeconfig.cache
+C:\Users\vikto\Desktop\ДНУ\1 курс\2 семестр\АК\АК4\АК4\obj\Debug\net6.0\ref\АК4.dll
